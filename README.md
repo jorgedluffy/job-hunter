@@ -1,5 +1,7 @@
 # Job Hunter — Monitor de ofertas tech
 
+> 🚧 **En construcción** — este proyecto está actualmente en desarrollo. La descripción de abajo refleja el objetivo final de la aplicación, no su estado actual.
+
 Aplicación Java que rastrea ofertas de empleo de desarrollador en Infojobs de forma automática, filtra las más relevantes y envía un informe diario por email en formato CSV.
 
 Construida como proyecto personal durante mi búsqueda de primer empleo como desarrollador — literalmente una herramienta para mi propio problema.
